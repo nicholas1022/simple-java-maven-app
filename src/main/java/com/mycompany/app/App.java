@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!";
+    private final String message = "Hello World! This messaged is modified to test CI of Jenkins";
 
     public App() {}
 
